@@ -3,6 +3,9 @@ A database of Mario character games
 
 This project is a relational database focused on the Mario franchise, organizing information about characters, additional details, sounds associated with characters, and specific actions each character can perform. Let's break down the components:
 
+![Blank diagram (1)](https://github.com/devtruerimco/Mario-Game-Database/assets/26213715/4fff7243-d01f-481d-a5c2-9ef1353815bb)
+
+
 * More_info Table:
 
 Stores detailed information about characters, such as birthday, height, weight, and a link to the character through the character_id.
